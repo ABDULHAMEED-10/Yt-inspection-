@@ -7,3 +7,5 @@ multiple channels growth comparison,
 keyword suggestions, 
 text to script, 
 text to video.
+
+all through Apis
